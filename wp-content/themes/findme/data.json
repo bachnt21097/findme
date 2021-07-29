@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Leadvisor",
+    "imgUrl": "Leadvisor.png",
+    "url": "https://html-demos.netlify.app/os/leadvisor/",
+    "category": ["company", "ladingpage"]
+  },
+  {
+    "name": "Vnstay",
+    "imgUrl": "Vnstay.png",
+    "url": "https://html-demos.netlify.app/os/vnstay/dist/",
+    "category": ["service"]
+  },
+  {
+    "name": "Bitmaton",
+    "imgUrl": "Bitmaton.png",
+    "url": "https://html-demos.netlify.app/os/bitmaton/",
+    "category": ["estate"]
+  },
+  {
+    "name": "Gemma",
+    "imgUrl": "Gemma.png",
+    "url": "https://html-demos.netlify.app/os/gemma/",
+    "category": ["ecommerce"]
+  },
+  {
+    "name": "Pacific",
+    "imgUrl": "Pacific.png",
+    "url": "https://html-demos.netlify.app/os/pancific/dist/",
+    "category": ["shopping"]
+  },
+  {
+    "name": "Tqs",
+    "imgUrl": "Tqs.png",
+    "url": "https://html-demos.netlify.app/os/tqs/",
+    "category": ["tourism"]
+  },
+  {
+    "name": "Archdaily",
+    "imgUrl": "Archdaily.png",
+    "url": "https://html-demos.netlify.app/os/archdaily/",
+    "category": ["ladingpage"]
+  },
+  {
+    "name": "Britec",
+    "imgUrl": "Britec.png",
+    "url": "https://html-demos.netlify.app/os/britec/",
+    "category": ["tourism"]
+  },
+  {
+    "name": "Storied",
+    "imgUrl": "Storied.png",
+    "url": "https://storied.thrivethemes.com/",
+    "category": ["blog"]
+  },
+  {
+    "name": "squared",
+    "imgUrl": "squared.png",
+    "url": "https://squared.thrivethemes.com/",
+    "category": ["blog"]
+  },
+  {
+    "name": "performag",
+    "imgUrl": "performag.png",
+    "url": "https://performag.thrivethemes.com/",
+    "category": ["blog"]
+  },
+  {
+    "name": "minus",
+    "imgUrl": "minus.png",
+    "url": "https://minus.thrivethemes.com/",
+    "category": ["blog"]
+  },
+  {
+    "name": "luxe",
+    "imgUrl": "luxe.png",
+    "url": "https://luxe.thrivethemes.com/",
+    "category": ["blog"]
+  },
+  {
+    "name": "ignition",
+    "imgUrl": "ignition.png",
+    "url": "https://ignition.thrivethemes.com/",
+    "category": ["blog"]
+  },
+  {
+    "name": "focusblog",
+    "imgUrl": "focusblog.png",
+    "url": "https://focusblog.thrivethemes.com/",
+    "category": ["blog"]
+  },
+  {
+    "name": "rise",
+    "imgUrl": "rise.png",
+    "url": "https://rise.thrivethemes.com/",
+    "category": ["blog"]
+  },
+  {
+    "name": "pressive",
+    "imgUrl": "pressive.png",
+    "url": "https://pressive.thrivethemes.com/",
+    "category": ["blog"]
+  },
+  {
+    "name": "voice",
+    "imgUrl": "voice.png",
+    "url": "https://voice.thrivethemes.com/",
+    "category": ["blog"]
+  }
+]
